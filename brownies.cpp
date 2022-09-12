@@ -20,6 +20,6 @@ int main(){
     // cout << totalcookiesUSD << std::endl;
     double totalbrowniesUSD = fundraisinggoalUSD / browniesUSD;
     // cout << totalbrowniesUSD << std::endl;
-    cout << "Number of Cookies needed to reach fundraising goal: " << totalcookiesUSD << endl;
-    cout << "Number of Brownies needed to reach fundraising goal: " << totalbrowniesUSD << endl;
+    cout << "To make our fundraising goal of $300, we would need to sell "  << totalcookiesUSD << " of Cookies at $2.50" << endl;
+    cout << "To make our fundraising goal of $300, we would need to sell " << totalbrowniesUSD << " of Brownies at $3.75" << endl;
 }
