@@ -11,7 +11,7 @@ main(){
     cout << "Now type in your second number: "; // Denominator
     cin >> y; // User Input
     cout << "*****************************************************" << endl;
-    cout << "1st Number: " << y << "\n" << "2nd Number: " << x << endl;
+    cout << "1st Number: " << x << "\n" << "2nd Number: " << y << endl;
     cout << "*****************************************************" << endl;
     cout << "The result of the 1st Number / 2nd Number as a whole number is " << x / y  << "." << '\n' << "The remainder is " << x % y << "." << endl;
     cout << "*****************************************************" << endl;
